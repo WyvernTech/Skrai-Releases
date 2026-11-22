@@ -1,2 +1,2 @@
 # Skrai-Releases
-Skrai's releases, because hosting is just too expensive.
+This repo hosts the releases of [Skrai](https://skrai.co)'s desktop app. Yes, I'm cheap.
